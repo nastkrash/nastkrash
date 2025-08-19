@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anastassiya 👋
 
-<!--
-**nastkrash/nastkrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer
+🎓 Student at 42 School (currently completing my final project)  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: C, C++, Shell
+- Tools: Git, Linux, Docker, Make
+- Concepts: Algorithms, Networking, OOP, Systems Programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [so_long] → 2D game with pathfinding logic (C + MiniLibX)
+- [minitalk] → Client/server communication with UNIX signals
+- [push_swap] → Sorting algorithm project (C)
+- [libft] → Custom C standard library implementation
+- [PmergeMe] → Hybrid sorting algorithm (C++)
+
+## 📫 Connect
+- Email: nastkrash@gmail.com
