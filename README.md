@@ -12,7 +12,7 @@
 - [so_long] → 2D game with pathfinding logic (C + MiniLibX)
 - [minitalk] → Client/server communication with UNIX signals
 - [push_swap] → Sorting algorithm project (C)
-- [libft] → Custom C standard library implementation
+- [libft](https://github.com/nastkrash/Libft) → Custom C standard library implementation
 - [PmergeMe] → Hybrid sorting algorithm (C++)
 
 ## 📫 Connect
