@@ -1,6 +1,7 @@
 # Hi, I'm Anastassiya 👋
 
 💻 Software Developer
+🎓 Graduate of Czech University of Life Sciences, BSc in Informatics 
 🎓 Student at 42 School (currently completing my final project)  
 
 
