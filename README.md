@@ -13,3 +13,4 @@
 
 ## 📫 Connect
 - Email: nastkrash@gmail.com
+-[LinkedIn](https://www.linkedin.com/in/anastassiya-krasheninnikova-0994b437b/)
