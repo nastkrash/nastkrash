@@ -3,10 +3,6 @@
 💻 Software Developer
 🎓 Student at 42 School (currently completing my final project)  
 
-## 🚀 Skills
-- Languages: C, C++, Shell
-- Tools: Git, Linux, Docker, Make
-- Concepts: Algorithms, Networking, OOP, Systems Programming  
 
 ## 📂 Projects
 - [so_long] → 2D game with pathfinding logic (C + MiniLibX)
