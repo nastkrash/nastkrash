@@ -13,6 +13,8 @@
 - [Philosophers](https://github.com/nastkrash/philosophers) → Concurrency simulation of Dining Philosophers problem (C, multithreading, deadlock prevention)  
 - [Ft_printf](https://github.com/nastkrash/ft_printf) → Recreation of the standard `printf` function with formatted output (C, variadic functions)  
 - [Get_next_line](https://github.com/nastkrash/get_next_line) → Function to read lines from a file descriptor efficiently (C, buffer management)
+- [Inception](https://github.com/nastkrash/inception) → Virtualized Docker-based infrastructure with Nginx, WordPress, and MariaDB services (Docker Compose, system administration)  
+- [miniRT](https://github.com/nastkrash/miniRT) → Ray tracing engine rendering 3D scenes with lighting, shadows, and reflections (C, mathematical modeling, computer graphics)  
   ### C++ Modules (CPP00–CPP09)  
 - [CPP00](https://github.com/nastkrash/CPP00) → Basics of C++ syntax, namespaces, classes, I/O streams  
 - [CPP01](https://github.com/nastkrash/CPP01) → Memory allocation, references, pointers, and basic OOP principles  
