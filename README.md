@@ -10,6 +10,11 @@
 - [push_swap](https://github.com/nastkrash/push_swap) → Sorting algorithm project (C)
 - [libft](https://github.com/nastkrash/Libft) → Custom C standard library implementation
 - [PmergeMe](https://github.com/nastkrash/PmergeMe) → Hybrid sorting algorithm (C++)
+- [Philosophers](https://github.com/nastkrash/philosophers) → Concurrency simulation of Dining Philosophers problem (C, multithreading, deadlock prevention)  
+- [Ft_printf](https://github.com/nastkrash/ft_printf) → Recreation of the standard `printf` function with formatted output (C, variadic functions)  
+- [Get_next_line](https://github.com/nastkrash/get_next_line) → Function to read lines from a file descriptor efficiently (C, buffer management)  
+
+
 
 ## 📫 Connect
 - Email: nastkrash@gmail.com
